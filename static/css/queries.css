@@ -1,0 +1,106 @@
+
+@media only screen and (min-width: 1200px) {
+  
+}
+
+@media only screen and (max-width: 1023px) {
+
+  html,
+  body {
+    font-size: 18px;
+  }  
+  
+}
+
+@media only screen and (max-width: 767px){
+
+  .fab {
+    font-size: 1000px;
+  }
+  
+  html,
+  body {
+    font-size: 16px;
+  }    
+  
+  .logo {
+  top: 0px;
+	margin-left: 0;
+  z-index: 9999;
+  }
+  
+  .find-box {
+    margin: 0;
+    width: 100%;
+  }
+  
+  .inner-find {
+    width: 100%;
+    padding: 0;
+  }
+  
+  .resort-img {
+    height: auto;
+  }
+
+  .resort-desc p {
+    font-size: 90%;
+  }
+
+  .resort-box .btn-more {
+    margin-bottom: 60px;
+  }
+  
+  .btn:link,
+  .btn:visited,
+  input[type=submit] {
+    padding: 10px 30px;
+    font-size: 100%;
+  }
+  
+  .element-box label {
+    font-size: 120%;
+  }
+  
+  input[type=text],
+  select {
+    height: 140%;
+    font-size: 90%;
+  }  
+  
+  .locations ul li a{
+    font-size: 120%;
+  }
+  
+}
+
+@media only screen and (max-width: 480px){
+  
+  html,
+  body {
+    font-size: 16px;
+  }
+  
+  .element-box label {
+    font-size: 110%;
+  }
+  
+  .inner-find {
+    width: 100%;
+    padding: 0;
+  } 
+  
+  input[type=text],
+  select {
+    height: 140%;
+    font-size: 90%;
+  }   
+  
+  .logo {
+  top: 0px;
+	margin-left: 0;
+  z-index: 9999;
+  }
+  
+}
+

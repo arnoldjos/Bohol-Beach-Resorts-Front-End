@@ -1,5 +1,5 @@
 <div class="row find-box">
-  <div class="col">
+  <div class="col inner-find">
     <div class="row">
       <div class="col">
         <h3>Find Resort</h3>
@@ -79,6 +79,24 @@
         </div>
       </div>
     </form>
+    <div class="row phil-map">
+      <h3>Find Beach Resorts in the Philippines</h3>
+      <img src="../static/images/philippine-map.png" class="map-img" alt="Philippine Map">
+      <div class="row locations"> 
+        <div class="col">
+          <ul>
+            <li><a href="#">Davao</a></li>
+            <li><a href="#">Luzon</a></li>
+          </ul>
+        </div>
+        <div class="col">
+          <ul>
+            <li><a href="#">Cebu</a></li>
+            <li><a href="#">Boracay</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 

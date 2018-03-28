@@ -43,6 +43,7 @@
           <div class="logo">
             <h2 class="logo-text">Bohol Resorts</h2>
           </div>
+<!--
           <nav>
             <div class="row">
               <ul class="main-nav">
@@ -50,6 +51,28 @@
                 <li><a href="#">Resorts</a></li>
                 <li><a href="#">Reservations</a></li>
                 <li><a href="#">About Us</a></li>
+              </ul>
+            </div>
+          </nav>
+-->
+          <nav class="navbar navbar-expand-lg navbar-dark">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Main</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Resorts</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Reservations</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">About Us</a>
+                </li>
               </ul>
             </div>
           </nav>
